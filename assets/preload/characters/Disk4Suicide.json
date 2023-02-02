@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				668,
+				714
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "SM Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				601,
+				705
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "SM Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				601,
+				673
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "SM Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				597,
+				729
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "SM Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				598,
+				725
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": true,
+			"name": "SM Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SuicideM",
+	"position": [
+		600,
+		800
+	],
+	"healthicon": "suicide",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		120,
+		120
+	],
+	"camera_position": [
+		-450,
+		-660
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

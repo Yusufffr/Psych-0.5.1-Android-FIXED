@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				673,
+				705
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EM Left"
+		},
+		{
+			"offsets": [
+				588,
+				701
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EM Right"
+		},
+		{
+			"offsets": [
+				588,
+				613
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EM Down"
+		},
+		{
+			"offsets": [
+				588,
+				764
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EM Up"
+		},
+		{
+			"offsets": [
+				598,
+				725
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "EM Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EyelessM",
+	"position": [
+		550,
+		750
+	],
+	"healthicon": "suicide3",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		120,
+		120
+	],
+	"camera_position": [
+		-450,
+		-750
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

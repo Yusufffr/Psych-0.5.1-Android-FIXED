@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				724,
+				714
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "HM Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				652,
+				702
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "HM Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				588,
+				645
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "HM Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				643,
+				748
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "HM Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				596,
+				722
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle",
+			"loop": true,
+			"name": "HM Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SmileM",
+	"position": [
+		600,
+		900
+	],
+	"healthicon": "suicide2",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		120,
+		120
+	],
+	"camera_position": [
+		-600,
+		-750
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
